@@ -6,9 +6,9 @@ using learned HTML skills to build a simple recipes website
   Skills used:
   </h2>
   <ol>
-  <li> Boilerplate setup <li
-Header
-Images
-Links
-ordered and unordered lists
+    <li> Boilerplate setup </li>
+    <li> Header </li>
+    <li> Images </li>
+    <li> Links </li>
+    <li> Ordered and unordered lists </li>
   </ol>
