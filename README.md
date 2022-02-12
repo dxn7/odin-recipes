@@ -5,10 +5,10 @@ using learned HTML skills to build a simple recipes website
   <h2>
   Skills used:
   </h2>
-  <ol>
+  <ul>
     <li> Boilerplate setup </li>
     <li> Header </li>
     <li> Images </li>
     <li> Links </li>
     <li> Ordered and unordered lists </li>
-  </ol>
+  </ul>
