@@ -5,3 +5,4 @@ Boilerplate setup
 Header
 Images
 Links
+ordered and unordered lists
