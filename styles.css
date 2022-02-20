@@ -1,0 +1,18 @@
+.heading{
+    font-size: 48px;
+    background-color: rgb(18, 117, 163);
+    color:white;
+}
+.sub{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+}
+.pizza{
+    color: tomato;
+}
+.guac{
+    color: greenyellow;
+}
+.banana{
+    color: yellow;
+}
